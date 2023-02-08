@@ -12,7 +12,7 @@
         }
     ],
     "require": {
-        "yiisoft/yii2-bootstrap4: "^2.1"
+        "yiisoft/yii2-bootstrap4": "^2.1"
         "rmrevin/yii2-fontawesome": "^2.16",
         "bower-asset/metismenu": "1.1.3"
     },
